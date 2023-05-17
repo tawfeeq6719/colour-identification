@@ -3,7 +3,7 @@ DESCRIPTION :
 
 1.)This is a computer vision project for The Sparks Foundation GRIP Internship of may 2023.
 
-2.)This project is created to identify colours that is present in the given image .( NOTE : here i have set to identify top 8 colours that are present in the input image )
+2.)This project is created to identify colours that is present in the given image .
 
 REQUIREMENTS :
 
